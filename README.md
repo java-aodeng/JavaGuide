@@ -7,7 +7,7 @@
 
 - [JavaGuide-什么是线程死锁?如何避免死锁](https://github.com/java-aodeng/JavaGuide/blob/master/docs/java/multi-thread/2020%E6%9C%80%E6%96%B0Java%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
--[Java内存区域](https://github.com/java-aodeng/JavaGuide/blob/master/docs/java/jvm/Java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F.md#33-%E5%AF%B9%E8%B1%A1%E7%9A%84%E8%AE%BF%E9%97%AE%E5%AE%9A%E4%BD%8D)
+- [Java内存区域](https://github.com/java-aodeng/JavaGuide/blob/master/docs/java/jvm/Java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F.md#33-%E5%AF%B9%E8%B1%A1%E7%9A%84%E8%AE%BF%E9%97%AE%E5%AE%9A%E4%BD%8D)
 
 <p><br/><br/><br/><br/></p>
 👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？]( https://zhuanlan.zhihu.com/p/379041500)  （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！另外，我整理了一份各个技术的学习路线，需要的小伙伴[加我微信](#联系我)备注“**Github-学习路线**”即可！
