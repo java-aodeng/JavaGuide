@@ -1,5 +1,12 @@
 # 较好的文章-(自己看过的部分)-低调小熊猫
-[JavaGuide/SpringBoot+Spring常用注解总结.md at master · Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBoot+Spring%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3%E6%80%BB%E7%BB%93.md)
+- [JavaGuide/SpringBoot+Spring常用注解总结.md at master · Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBoot+Spring%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3%E6%80%BB%E7%BB%93.md)
+
+- [一口气说出 6种 @Transactional 注解失效场景](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486483&idx=2&sn=77be488e206186803531ea5d7164ec53&chksm=cea243d8f9d5cacecaa5c5daae4cde4c697b9b5b21f96dfc6cce428cfcb62b88b3970c26b9c2&token=816772476&lang=zh_CN#rd)
+
+- [JavaGuide/bloom-filter-什么是布隆过滤器](https://github.com/Snailclimb/JavaGuide/blob/master/docs/dataStructures-algorithms/data-structure/bloom-filter.md)
+
+- [JavaGuide-什么是线程死锁?如何避免死锁](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/multi-thread/2020%E6%9C%80%E6%96%B0Java%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
+
 
 <p><br/><br/><br/><br/></p>
 👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？]( https://zhuanlan.zhihu.com/p/379041500)  （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！另外，我整理了一份各个技术的学习路线，需要的小伙伴[加我微信](#联系我)备注“**Github-学习路线**”即可！
