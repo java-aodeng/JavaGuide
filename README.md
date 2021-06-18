@@ -1,4 +1,4 @@
-# 较好的文章-(自己看过的部分)-低调小熊猫
+# 较好的文章-(自己看过觉得好的部分)-低调小熊猫
 - [JavaGuide/SpringBoot+Spring常用注解总结.md at master · Snailclimb/JavaGuide](https://github.com/java-aodeng/JavaGuide/blob/master/docs/system-design/framework/spring/SpringBoot+Spring%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3%E6%80%BB%E7%BB%93.md)
 
 - [一口气说出 6种 @Transactional 注解失效场景](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486483&idx=2&sn=77be488e206186803531ea5d7164ec53&chksm=cea243d8f9d5cacecaa5c5daae4cde4c697b9b5b21f96dfc6cce428cfcb62b88b3970c26b9c2&token=816772476&lang=zh_CN#rd)
