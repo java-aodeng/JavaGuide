@@ -11,6 +11,10 @@
 
 - [Java容器集合框架常见面试题](https://github.com/java-aodeng/JavaGuide/blob/master/docs/java/collection/Java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md) 
 
+- [Java基础知识疑难点](https://github.com/java-aodeng/JavaGuide/blob/master/docs/java/basis/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%96%91%E9%9A%BE%E7%82%B9.md)
+
+- [深入剖析Java中的装箱和拆箱](https://www.cnblogs.com/dolphin0520/p/3780005.html)
+
 <p><br/><br/><br/><br/></p>
 👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？]( https://zhuanlan.zhihu.com/p/379041500)  （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！另外，我整理了一份各个技术的学习路线，需要的小伙伴[加我微信](#联系我)备注“**Github-学习路线**”即可！
 
